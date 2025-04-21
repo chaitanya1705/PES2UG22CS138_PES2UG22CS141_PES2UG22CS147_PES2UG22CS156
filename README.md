@@ -32,13 +32,8 @@ url-shortener/
 │   ├── __init__.py
 │   └── test_app.py           # Unit tests for the application
 ├── scripts/
-│   └── stress_test.py        # Load testing script
-├── postgres/                 # Optional PostgreSQL integration
-│   ├── app_postgres.py       # PostgreSQL version of the app
-│   └── requirements_postgres.txt
-└── .github/
-    └── workflows/
-        └── ci-cd.yml         # GitHub Actions workflow
+   └── stress_test.py        # Load testing script
+
 ```
 
 ---
