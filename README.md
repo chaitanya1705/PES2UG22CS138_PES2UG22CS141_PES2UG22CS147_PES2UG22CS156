@@ -164,13 +164,6 @@ kubectl scale deployment url-shortener -n url-shortener --replicas=5
 kubectl get events -n url-shortener
 ```
 
----
-
-## Future Enhancements (Optional)  
-- **Database Integration**: Replace Redis with PostgreSQL, MongoDB, or DynamoDB.  
-- **CI/CD**: Automate testing and deployment with GitHub Actions or Jenkins.
-
----
 
 ## Contributors  
 - CHAITANYA N  
